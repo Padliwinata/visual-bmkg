@@ -6,7 +6,7 @@ from pydeck.types import String
 from util import bmkg_to_final
 
 
-df = pd.read_csv('../koordinat.csv', delimiter=';')
+df = pd.read_csv('koordinat.csv', delimiter=';')
 df = df.astype({'lat': float, 'lon': float})
 
 df['singkat'] = df['stasiun'].str.replace('Stasiun', '')
@@ -15,7 +15,7 @@ df['singkat'] = df['singkat'].str.replace('Klimatologi', '')
 df['singkat'] = df['singkat'].str.replace('Geofisika', '')
 df['singkat'] = df['singkat'].str.replace('Maritim', '')
 
-raw = pd.read_csv('../dataset/laporan iklim harian/laporan_iklim_harian_2017.csv')
+raw = pd.read_csv('dataset/laporan iklim harian/laporan_iklim_harian_2017.csv')
 data = bmkg_to_final(raw)
 
 st.title("Peta Stasiun BMKG Indonesia")
