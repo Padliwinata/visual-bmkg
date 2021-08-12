@@ -95,7 +95,7 @@ elif month == 'Desember':
 
 
 st.pydeck_chart(pdk.Deck(
-    # map_style='mapbox://styles/mapbox/light-v9',
+    map_style='mapbox://styles/mapbox/light-v9',
     initial_view_state=pdk.ViewState(
         latitude=-4.449664376712999,
         longitude=119.80721106816641,
@@ -117,5 +117,5 @@ st.pydeck_chart(pdk.Deck(
         )
     ],
     tooltip={"text": "{stasiun}\n{tanggal}\n{suhu}"},
-    map_style=pdk.map_styles.ROAD,
+    # map_style=pdk.map_styles.ROAD,
 ))
