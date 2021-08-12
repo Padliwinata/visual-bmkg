@@ -24,6 +24,20 @@ st.write("""
 Makasih udah mau tetep sabar sama aku meskipun aku sering ngeselin.
 Makasih udah selalu ada untuk aku sampe sekarang.
 
+Aku mau nyerita dulu dikit hehe. Aku seneng untuk apa yang kita laluin berdua selama ini.
+Semoga kita bisa tetep saling pengertian ya sayang. Terima kasih banget kamu selama ini selalu temenin aku.
+Apalagi akhir akhir ini kita punya masalah yang sama. Aku seneng sipe selalu ada juga untuk aku.
+Semoga kita bisa selalu melengkapi dan saling menguatkan. Banyaakkk banget hal yang udah sipe kasih
+untuk aku. Mau kamu ngerasa atau engga, pokonya makasih banget untuk semuanya. Maafin aku ga jago
+bikin kalimat panjang hehe. Sekarang aja aku udah rada mentok mau nulis apa. Tapi pokonya aku sayang sipe.
+Tetep semangat ya my sipee. Kamu lucu dan kamu harus ceria. Boleh sesekali nangis tapi harus aku temenin hehe.
+Aku mau nyerita yang asli aja deh ga dibuat buat untuk ucapan ultah. Aku bikin tulisan ini biar kamu 
+bisa baca sambil enjoy lagunya aja hehe. Aku ga bisa banyak nulis karena sebagian besar cerita aku kan 
+diceritain kalau kita fc. Tapi gapapa deh hehe. Pokonya kamu ikutin web ini sampe akhir yaa. 
+Aku udah sengaja pengen kamu buka ini sambil kita fc atau vc hehe. Jadiiii... ditunggu reaction nya hehehe.
+
+Sekarang ke bagian selanjutnya, mendoakan sipe
+
 Semoga sipe bisa tetep seneng meskipun aku ga bisa ngasih sesuatu yang terlalu 'wah'.\n
 Semoga sipe bisa terus jadi sipe yang lebih baik.\n
 Semoga sipe bisa tetep seneng sama aku dan sabar kalau akunya ngeselin.\n
