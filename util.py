@@ -168,7 +168,7 @@ def bmkg_to_final(df):
     return table
 
 
-def extract_insight(df, year):
+def extract_insight(df, year: int):
     table = bmkg_to_final(df)
     table.to_csv(f'hasil_{year}.csv', sep=';')
 

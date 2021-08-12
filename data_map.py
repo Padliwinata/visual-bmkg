@@ -21,7 +21,7 @@ data = bmkg_to_final(raw)
 st.title("Peta Stasiun BMKG Indonesia")
 
 
-month = st.sidebar.radio(
+month = st.sidebar.selectbox(
     "Bulan",
     ("Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober",
      "November", "Desember")
